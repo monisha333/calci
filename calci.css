@@ -1,0 +1,40 @@
+body
+{ 
+    background-image: url(https://www.shutterstock.com/image-vector/mathematical-symbols-pattern-vector-math-600w-1953845089.jpg) ;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+
+}
+.container
+{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.calculator
+{
+  background-image: url(https://img.freepik.com/free-vector/diy-creative-workshop_23-2148508164.jpg?w=740&t=st=1689400810~exp=1689401410~hmac=dd61016e5b2a39ab59212ec391c5e4140cf6639dff4af1d04873279f5011d746);
+  padding:20px;
+  border-radius: 100px;
+  
+ 
+}
+.calculator input 
+{
+ height: 40px;
+ border-radius: 10px;
+ background: transparent;
+ color:black;
+ font-size: 20px;
+ margin: 15px;
+}
+.equal
+{
+    width: 110px;
+    
+    
+}
+
